@@ -13,6 +13,16 @@
     <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
     <a href="https://it.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/> </a> 
+    <a href="https://www.java.com/it/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/it/thumb/2/2e/Java_Logo.svg/643px-Java_Logo.svg.png?20060810175939" alt="java" width="40" height="40"/></a>
+    <a href="https://it.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/360px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/></a>
+    <a href="https://it.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/320px-ISO_C%2B%2B_Logo.svg.png" alt="C++" width="40" height="40"/></a>
+    <a href="https://www.qgis.org/it/site/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/200px-QGIS_logo_new.svg.png" alt="QGIS" width="40" height="40"/></a>
+    <a href="https://www.arcgis.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/200px-ArcGIS_logo.png" alt="ArcGIS" width="40" height="40"/></a>
+    <a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"> <img src="https://earthengine.google.com/static/images/earth-engine-logo.png" alt="GEE" width="40" height="40"/></a>
+    
+
+
+
 
 
 
